@@ -1,4 +1,7 @@
-# Privacy Policy
+---
+permalink: /privac-policy/
+title: "Privacy Policy"
+---
 
 ## General notes
 
