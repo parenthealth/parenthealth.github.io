@@ -1,5 +1,4 @@
 ---
-permalink: /privac-policy/
 title: "Privacy Policy"
 ---
 
