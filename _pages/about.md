@@ -3,6 +3,18 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+<p>
+The project investigates how parenthood affects health behaviors of men and women like physical activity, substance use, diet, and sleep. 
+</p>
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+<p>
+It uses panel data from up to seven countries to track the effect of parenthood from pregnancy to children’s teenage years. Comparing the effect across social contexts defined by socio-economic status and family structure and across countries with specific institutional and cultural differences and similarities then sheds light on the role of social and societal contexts in moderating the parenthood effect.
+</p>
+
+<p>
+Research output from the project will be linked on this website. The code used to produce this output is available on the Open Science Framework. All datasets used are publicly available.
+</p>
+
+<p>
+We are very grateful to the German Science Foundation (DFG) for funding the project.
+</p>
